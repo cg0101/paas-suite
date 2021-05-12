@@ -2,7 +2,7 @@
 paas suite, Low-code programming for building enterprise resource planning 企业级paas平台 - 完整的前端解决方案
 
 ## Suite List
-* [paas flow](./docs/paas-flow/index.html)
+* [paas flow](https://fancylife.github.io/paas-suite/paas-flow/index.html)
 * paas object
 * paas ui
 * paas workflow
