@@ -1,0 +1,26 @@
+{
+  "name": "paas-suite",
+  "version": "1.0.0",
+  "description": "paas suite, Low-code programming for building enterprise resource planning 企业级paas平台 - 完整的前端解决方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancylife/paas-suite.git"
+  },
+  "devDependencies": {
+      "@babel/types": "^7.14.0",
+      "@babel/generator": "^7.14.0",
+      "@babel/parser": "^7.14.0",
+      "@babel/traverse": "^7.14.0",
+  },
+  "keywords": ["paas","suite"],
+  "author":"zhangchi <zhangchi3@outlook.com> (http://zhangchi.blog.csdn.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fancylife/paas-suite/issues"
+  },
+  "homepage": "https://github.com/fancylife/paas-suite#readme"
+}
